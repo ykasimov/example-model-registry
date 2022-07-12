@@ -1,3 +1,6 @@
 my-new-rf:
   path: models/my-pickle-model.pkl
   type: model
+rf-external:
+  path: models/my_rf
+  type: model
