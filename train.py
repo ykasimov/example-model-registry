@@ -15,7 +15,7 @@ def main():
 
     save(
         rf,
-        "models/my_rf",
+        "models/another_rf",
         sample_data=data,
         external=True,
         description="my rf model",
