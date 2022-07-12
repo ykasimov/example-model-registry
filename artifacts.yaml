@@ -5,5 +5,6 @@ rf-external:
   path: models/my_rf
   type: model
 text-model:
+  description: something
   path: models/gto_model.pkl
   type: model
