@@ -1,7 +1,7 @@
 artifacts:
   data:
-    hash: 75ef3099c3aa9ac48211ad5635fef9f7
-    size: 163651
+    hash: 7cc13fd5d83d22a716ad21e82a569f8a
+    size: 17130
     uri: my_rf
 description: my rf model
 model_type:
