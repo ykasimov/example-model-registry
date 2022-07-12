@@ -1,5 +1,5 @@
-my-new-rf:
-  path: models/my-pickle-model.pkl
+another-rf:
+  path: models/another_rf
   type: model
 rf-external:
   path: models/my_rf
