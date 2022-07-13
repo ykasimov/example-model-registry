@@ -1,6 +1,10 @@
 another-rf:
   path: models/another_rf
   type: model
+mlem-rf:
+  description: something
+  path: .mlem/model/mlem_rf
+  type: model
 rf-external:
   path: models/my_rf
   type: model
